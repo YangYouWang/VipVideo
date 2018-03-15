@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data">
+        <item>接口一</item>
+        <item>接口二 </item>
+        <item>接口三</item>
+        <item>接口四</item>
+        <item>接口五</item>
+        <item>接口六</item>
+        <item>接口七</item>
+        <item>接口八</item>
+        <item>接口九</item>
+        <item>接口十</item>
+    </string-array>
+</resources>
