@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">VipVideo</string>
+    <string name="app_name">解析VIP视频</string>
+    <string name="ed_url">播放视频地址</string>
+    <string name="btn_ok">播放</string>
+    <string name="youku">优酷</string>
+    <string name="iqiyi">爱奇艺</string>
+    <string name="tencent">腾讯视频</string>
 </resources>
